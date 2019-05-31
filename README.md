@@ -1,6 +1,6 @@
 
 Register on the site
-[Marvel] (https://developer.marvel.com/)
+[Marvel](https://developer.marvel.com/)
  for private and public key. Initialize the Api client using your keys.
 
 ```
