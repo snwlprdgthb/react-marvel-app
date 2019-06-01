@@ -10,7 +10,7 @@ const private_key = 'my-private-key'
 const public_key = 'my-public-key'
 ```
 
-
+![](http://webdesign.ru.net/images/Heydon_min.jpg)
 
 ### `npm start`
 
